@@ -1,0 +1,12 @@
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\MVCProjects\SMDBFramework\bin\Debug\SMDBFramework.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\MVCProjects\SMDBFramework\bin\Debug\SMDBFramework.pdb
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\MVCProjects\SMDBFramework\obj\Debug\SMDBFramework.csproj.CoreCompileInputs.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\MVCProjects\SMDBFramework\obj\Debug\SMDBFramework.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\MVCProjects\SMDBFramework\obj\Debug\SMDBFramework.pdb
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\MVCProjects\SMDBFramework\obj\Debug\SMDBFramework.csprojResolveAssemblyReference.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WinForms\SMDBFramework\bin\Debug\SMDBFramework.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WinForms\SMDBFramework\bin\Debug\SMDBFramework.pdb
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WinForms\SMDBFramework\obj\Debug\SMDBFramework.csproj.CoreCompileInputs.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WinForms\SMDBFramework\obj\Debug\SMDBFramework.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WinForms\SMDBFramework\obj\Debug\SMDBFramework.pdb
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WinForms\SMDBFramework\obj\Debug\SMDBFramework.csprojResolveAssemblyReference.cache
